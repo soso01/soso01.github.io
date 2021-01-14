@@ -165,21 +165,21 @@
 <span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token comment">//3초 후 실패</span></code></pre></div>
 <ul>
 <li>콜백내의 done함수가 실행될 때까지 테스트가 종료되지 않아 비동기함수를 수행할 수 있음.</li>
-<li>
-<p>done을 전달은 받았는데 호출하지 않으면 테스트가 실패한다.</p>
+<li>done을 전달은 받았는데 호출하지 않으면 테스트가 실패한다.</li>
+</ul>
 <div class="gatsby-highlight" data-language="javascript"><pre class="language-javascript"><code class="language-javascript"><span class="token function-variable function">getAge</span><span class="token operator">:</span> <span class="token punctuation">(</span><span class="token parameter">age</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
-<span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">Promise</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">resolve</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
-  <span class="token function">setTimeout</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
-    <span class="token function">resolve</span><span class="token punctuation">(</span>age<span class="token punctuation">)</span>
-  <span class="token punctuation">}</span><span class="token punctuation">,</span> <span class="token number">3000</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">Promise</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">resolve</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+      <span class="token function">setTimeout</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+        <span class="token function">resolve</span><span class="token punctuation">(</span>age<span class="token punctuation">)</span>
+      <span class="token punctuation">}</span><span class="token punctuation">,</span> <span class="token number">3000</span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span><span class="token punctuation">)</span>
+  <span class="token punctuation">}</span>
 <span class="token function">test</span><span class="token punctuation">(</span><span class="token string">"3초 후에 받아온 age는 30"</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
-<span class="token keyword">return</span> <span class="token function">getAge</span><span class="token punctuation">(</span><span class="token number">30</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">then</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">age</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
-<span class="token function">expect</span><span class="token punctuation">(</span>age<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">toBe</span><span class="token punctuation">(</span><span class="token number">30</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span><span class="token punctuation">)</span>
+  <span class="token keyword">return</span> <span class="token function">getAge</span><span class="token punctuation">(</span><span class="token number">30</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">then</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">age</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
+    <span class="token function">expect</span><span class="token punctuation">(</span>age<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">toBe</span><span class="token punctuation">(</span><span class="token number">30</span><span class="token punctuation">)</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span>
 <span class="token punctuation">}</span><span class="token punctuation">)</span></code></pre></div>
-</li>
+<ul>
 <li>
 <p>promise의 경우 done을 안써도 된다. 프로미스를 return 시켜주면 됨.</p>
 <div class="gatsby-highlight" data-language="javascript"><pre class="language-javascript"><code class="language-javascript"><span class="token function">test</span><span class="token punctuation">(</span><span class="token string">"3초 후에 받아온 age는 30"</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token punctuation">{</span>
