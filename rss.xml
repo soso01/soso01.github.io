@@ -1,6 +1,288 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개인 프로젝트 하는 사람]]></title><description><![CDATA[개발일지, 공부 기록용 블로그]]></description><link>https://soso01.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Jan 2021 05:36:18 GMT</lastBuildDate><item><title><![CDATA[블로그 이전]]></title><description><![CDATA[블로그 이전 이전 블로그 : https://coding0.tistory.com/ 티스토리에선 마크다운으로 글쓰면 버그가 생기길래 깃헙 블로그로 이전했어요.]]></description><link>https://soso01.github.io/etc/블로그-이전/</link><guid isPermaLink="false">https://soso01.github.io/etc/블로그-이전/</guid><pubDate>Thu, 14 Jan 2021 14:02:05 GMT</pubDate><content:encoded>&lt;h3 id=&quot;블로그-이전&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%A0%84&quot; aria-label=&quot;블로그 이전 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 이전&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개인 프로젝트 하는 사람]]></title><description><![CDATA[개발일지, 공부 기록용 블로그]]></description><link>https://soso01.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Jan 2021 05:51:28 GMT</lastBuildDate><item><title><![CDATA[블로그 이전]]></title><description><![CDATA[블로그 이전 이전 블로그 : https://coding0.tistory.com/ 티스토리에선 마크다운으로 글쓰면 버그가 생기길래 깃헙 블로그로 이전했어요.]]></description><link>https://soso01.github.io/etc/블로그-이전/</link><guid isPermaLink="false">https://soso01.github.io/etc/블로그-이전/</guid><pubDate>Thu, 14 Jan 2021 14:02:05 GMT</pubDate><content:encoded>&lt;h3 id=&quot;블로그-이전&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%A0%84&quot; aria-label=&quot;블로그 이전 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 이전&lt;/h3&gt;
 &lt;p&gt;이전 블로그 : &lt;a href=&quot;https://coding0.tistory.com/&quot;&gt;https://coding0.tistory.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;티스토리에선 마크다운으로 글쓰면 버그가 생기길래 깃헙 블로그로 이전했어요.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[Your name Thank you for reading my resume. If you want to contact me, Please send me an email.]]></description><link>https://soso01.github.io/resume-en/</link><guid isPermaLink="false">https://soso01.github.io/resume-en/</guid><pubDate>Sun, 27 Jan 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;your-name&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#your-name&quot; aria-label=&quot;your name permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Your name&lt;/h1&gt;
+&lt;p&gt;티스토리에선 마크다운으로 글쓰면 버그가 생기길래 깃헙 블로그로 이전했어요.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[jest]]></title><description><![CDATA[Jest 강좌 출처 - 유튜브 코딩앙마 소개, 설치, 간단한 테스트 JEST : 페북에서 만듬, Zero config 철학을 가지고 있어서 별개의 설정없이 빠르게 테스트할 수 있는 장점이 있다. js진영에서 테스트 도구로 제일 많이 쓴다. npm i…]]></description><link>https://soso01.github.io/study/jest/</link><guid isPermaLink="false">https://soso01.github.io/study/jest/</guid><pubDate>Thu, 14 Jan 2021 14:01:41 GMT</pubDate><content:encoded>&lt;h1 id=&quot;jest-강좌&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#jest-%EA%B0%95%EC%A2%8C&quot; aria-label=&quot;jest 강좌 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Jest 강좌&lt;/h1&gt;
+&lt;h3 id=&quot;출처---유튜브-코딩앙마&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B6%9C%EC%B2%98---%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%95%99%EB%A7%88&quot; aria-label=&quot;출처   유튜브 코딩앙마 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=g4MdUjxA-S4&amp;#x26;list=PLZKTXPmaJk8L1xCg_1cRjL5huINlP2JKt&amp;#x26;index=1&quot;&gt;출처 - 유튜브 코딩앙마&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;소개-설치-간단한-테스트&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%86%8C%EA%B0%9C-%EC%84%A4%EC%B9%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8&quot; aria-label=&quot;소개 설치 간단한 테스트 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;소개, 설치, 간단한 테스트&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;JEST : 페북에서 만듬, Zero config 철학을 가지고 있어서 별개의 설정없이 빠르게 테스트할 수 있는 장점이 있다.&lt;/li&gt;
+&lt;li&gt;js진영에서 테스트 도구로 제일 많이 쓴다.&lt;/li&gt;
+&lt;li&gt;npm i jest -D 설치&lt;/li&gt;
+&lt;li&gt;package.json에서 스크립트에 test : ‘jest’로 수정.&lt;/li&gt;
+&lt;li&gt;npm jest 명령어를 치면 *.test.js 파일이나 &lt;strong&gt;tests&lt;/strong&gt;폴더에 테스트 파일들을 모두 테스트한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const { add } = require(&amp;quot;./fn&amp;quot;)
+
+test(&amp;quot;2 + 3 = 5&amp;quot;, () =&amp;gt; {
+  expect(add(2, 3)).toBe(5)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;테스트할 함수를 불러오고 expect에 검증할 값을, toBe에 인자로 예상값을 넣고 테스트를 돌리면 expect값이 예상값과 일치한지 출력해준다.&lt;/li&gt;
+&lt;li&gt;여기에 쓰인 toBe를 Matcher 라고 한다.&lt;/li&gt;
+&lt;li&gt;toBe는 숫자나 문자 같은 기본 타입형을 검사할때 쓰고, toBe 외에도 다양한 Matcher가 있음.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;다양한-matchers&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A4%EC%96%91%ED%95%9C-matchers&quot; aria-label=&quot;다양한 matchers permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;다양한 Matchers&lt;/h3&gt;
+&lt;h4 id=&quot;tobe와-toequal의-차이&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#tobe%EC%99%80-toequal%EC%9D%98-%EC%B0%A8%EC%9D%B4&quot; aria-label=&quot;tobe와 toequal의 차이 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;toBe와 toEqual의 차이&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const { makeUser } = require(&amp;quot;./fn&amp;quot;)
+
+test(&amp;quot;Jake toBe&amp;quot;, () =&amp;gt; {
+  expect(makeUser(&amp;#39;Jake&amp;#39;, 20)).toBe({name: &amp;#39;Jake&amp;#39;, age: 20})
+}) // 실패
+
+test(&amp;quot;Jake toEqual&amp;quot;, () =&amp;gt; {
+  expect(makeUser(&amp;#39;Jake&amp;#39;, 20)).toEqual({name: &amp;#39;Jake&amp;#39;, age: 20})
+}) // 성공&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;toBe는 객체나 배열의 내부를 재귀적으로 탐색하면서 비교하지 않지만, toEqual은 재귀적으로 돌면서 속성이 같은지 비교함.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;test(&amp;quot;Jake toBe&amp;quot;, () =&amp;gt; {
+const jake = {name : &amp;#39;Jake&amp;#39;}
+expect(jake).toBe(jake)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;이건 통과한다. toBe는 딱 js에서 ’===’ 비교랑 같은듯하다. 객체나 배열은 레퍼런스값으로만 비교한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;tostrictequal&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#tostrictequal&quot; aria-label=&quot;tostrictequal permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;toStrictEqual&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const fn = {
+  add : (a, b) =&amp;gt; a + b,
+  makeUser: (name, age) =&amp;gt; ({name, age, gender: undefined})
+}
+
+test(&amp;quot;Jake toStrictEqual&amp;quot;, () =&amp;gt; {
+  expect(makeUser(&amp;#39;Jake&amp;#39;, 20)).toStrictEqual({name: &amp;#39;Jake&amp;#39;, age: 20})
+}) // 실패
+
+test(&amp;quot;Jake toEqual&amp;quot;, () =&amp;gt; {
+  expect(makeUser(&amp;#39;Jake&amp;#39;, 20)).toEqual({name: &amp;#39;Jake&amp;#39;, age: 20})
+}) // 성공&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;toStrictEqual은 toEqual보다 좀 더 엄격하게 비교연산을 수행한다.&lt;/li&gt;
+&lt;li&gt;toEqual에서는 gender: undefined와 gender속성이 아예없는것을 같다고 판별하지만 toStrictEqual은 다르다고 봄.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;그외&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EC%99%B8&quot; aria-label=&quot;그외 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그외&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;toBeNull&lt;/li&gt;
+&lt;li&gt;toBeUndefined&lt;/li&gt;
+&lt;li&gt;toBeDefined&lt;/li&gt;
+&lt;li&gt;toBeTruthy &lt;/li&gt;
+&lt;li&gt;toBeFalsy&lt;/li&gt;
+&lt;li&gt;toBeGreaterThan - 크다&lt;/li&gt;
+&lt;li&gt;toBeGreaterThanOrEqual - 크거나같다&lt;/li&gt;
+&lt;li&gt;toBeLessThan - 작다&lt;/li&gt;
+&lt;li&gt;toBeLessThanOrEqual - 작거나같다&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;toMatch - 정규표현식&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;test(&amp;quot;match&amp;quot;, () =&amp;gt; {
+expect(&amp;quot;hello world&amp;quot;).toMatch(/hello/)
+}) //성공&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;toContain - 배열에서 특정요소가 있는지 확인&lt;/li&gt;
+&lt;li&gt;toThrow - 에러 발생 여부. 인자에 에러 메시지 넣어서 메시지검증까지도 됨.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;비동기-코드-테스트&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BD%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8&quot; aria-label=&quot;비동기 코드 테스트 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;비동기 코드 테스트&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;getName: (callback) =&amp;gt; {
+    const name = &amp;quot;Mike&amp;quot;
+    setTimeout(() =&amp;gt; {
+      callback(name)
+    }, 3000)
+  }
+
+test(&amp;quot;3초 후에 받아온 이름은 Mike&amp;quot;, () =&amp;gt; {
+  const callback = (name) =&amp;gt; {
+    expect(name).toBe(&amp;quot;Tom&amp;quot;)
+  }
+  fn.getName(callback)
+})//성공&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;위 코드는 성공한다.&lt;/li&gt;
+&lt;li&gt;테스트를 돌려보면 3초를 기다리지 않고 success를 출력하는데, jest는 test함수의 끝에 도달하면 그대로 종료된다.&lt;/li&gt;
+&lt;li&gt;비동기의 콜백을 실행되기 전에 종료되서 success를 출력하는 것임.&lt;/li&gt;
+&lt;li&gt;이럴때는 테스트함수에 done이라고 하는 콜백함수를 전달해주면된다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;test(&amp;quot;3초 후에 받아온 이름은 Mike&amp;quot;, (done) =&amp;gt; {
+  const callback = (name) =&amp;gt; {
+    expect(name).toBe(&amp;quot;Tom&amp;quot;)
+    done()
+  }
+  fn.getName(callback)
+}) //3초 후 실패&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;콜백내의 done함수가 실행될 때까지 테스트가 종료되지 않아 비동기함수를 수행할 수 있음.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;done을 전달은 받았는데 호출하지 않으면 테스트가 실패한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;getAge: (age) =&amp;gt; {
+return new Promise((resolve) =&amp;gt; {
+  setTimeout(() =&amp;gt; {
+    resolve(age)
+  }, 3000)
+})
+}
+test(&amp;quot;3초 후에 받아온 age는 30&amp;quot;, () =&amp;gt; {
+return getAge(30).then((age) =&amp;gt; {
+expect(age).toBe(30)
+})
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;promise의 경우 done을 안써도 된다. 프로미스를 return 시켜주면 됨.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;test(&amp;quot;3초 후에 받아온 age는 30&amp;quot;, () =&amp;gt; {
+return expect(getAge(30)).resolves.toBe(30)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;이렇게 사용할 수도 있음.&lt;/li&gt;
+&lt;li&gt;expect(getAge(30)).rejects.toMatch(“error”)이런식으로 reject도 테스트가능함.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;test(&amp;quot;async await&amp;quot;,async () =&amp;gt; {
+  const age = await getAge(30)
+  expect(age).toBe(30)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;async await은 그냥 평소에 쓰던대로 하면 됨.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;test(&amp;quot;3초 후에 받아온 age는 30&amp;quot;, async () =&amp;gt; {
+await getAge(30).then((age) =&amp;gt; {
+expect(age).toBe(30)
+})
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;test(“3초 후에 받아온 age는 30”, async () =&gt; {
+await expect(getAge(30)).resolves.toBe(30)
+})&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- 위에 코드중 return 대신 await을 써도 돌아간다.
+
+
+### 테스트 전 후 작업
+- beforeEach(() =&amp;gt; {}) : 각 테스트 실행전에 이 함수가 실행됨. 값을 초기화하기 좋음
+- afterEach : 이건 각 테스트가 끝날때마다 실행된다.
+- beforeAll / afterAll : 각 테스트 케이스마다가 실행되는게 아니라 전체 테스트가 시작하기 전 / 끝난 후에 실행됨.
+- describe를 써서 여러 테스트를 한 블록에 묶을 수 있다. 
+- 이때 describe내의 before / after 함수들은 describe 내부에서만 실행 됨.
+- 근데 describe내의 테스트들은 describe 밖에서 정의한 before/after함수들도 적용된다.
+- describe 밖에있는 beforeEach가 내부의 beforeEach보다 먼저 실행됨.
+- describe 안에있는 afterEach가 외부의 afterEach보다 먼저 실행됨.
+- 밖 beforeEach -&amp;gt; 안 beforeEach -&amp;gt; 테스트 -&amp;gt; 안 afterEach -&amp;gt; 밖 afterEach
+```javascript=
+test.only(&amp;quot;0 + 1 = 1&amp;quot;, () =&amp;gt; {
+  expect(add(0, 1)).toBe(1)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;test.only는 해당 테스트만 실행되도록 한다.&lt;/li&gt;
+&lt;li&gt;여러 테스트가 있는데 하나만 실패한 경우 외부의 요인인지 코드자체의 문제인지 파악할때 유용&lt;/li&gt;
+&lt;li&gt;test.skip은 해당 테스트만 건너뛰도록 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;mock-함수&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#mock-%ED%95%A8%EC%88%98&quot; aria-label=&quot;mock 함수 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;mock 함수&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;테스트 하기 위해 흉내만 내는 함수.&lt;/li&gt;
+&lt;li&gt;유저 db에 접근해서 user list를 select 해오는 작업이 필요하다면 작성해야할 코드가 상당히 많아진다.&lt;/li&gt;
+&lt;li&gt;외부요인의 영향을 받기도 함(네트워크나 db환경)&lt;/li&gt;
+&lt;li&gt;직접 코드를 짜는 대신 목함수로 대체함.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;calls&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#calls&quot; aria-label=&quot;calls permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;calls&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const mockFn = jest.fn()
+
+mockFn()
+mockFn(1)
+
+test(&amp;#39;dd&amp;#39;, () =&amp;gt; {
+  console.log(mockFn.mock.calls) // [ [], [ 1 ] ] 출력
+  expect(&amp;#39;dd&amp;#39;).toBe(&amp;#39;dd&amp;#39;)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;jest.fn()으로 목함수 생성&lt;/li&gt;
+&lt;li&gt;mockFn.mock.calls는 목함수가 실행되었을 때의 인자를 가진다.&lt;/li&gt;
+&lt;li&gt;calls.length로 호출된 횟수를 테스트하거나 인자들의 값으로 테스트함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;예시&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const mockFn = jest.fn()
+
+const forEachAdd1 = (arr) =&amp;gt; {
+  arr.forEach(num =&amp;gt; {
+    //fn(num + 1)
+    mockFn(num + 1)
+  })
+}
+
+forEachAdd1([10, 20, 30]);
+test(&amp;#39;함수 호출은 3번 됩니다.&amp;#39;, () =&amp;gt; {
+  expect(mockFn.mock.calls.length).toBe(3)
+})
+test(&amp;#39;전달된 값은 11, 21, 31 입니다.&amp;#39;, () =&amp;gt; {
+  expect(mockFn.mock.calls[0][0]).toBe(11)
+  expect(mockFn.mock.calls[1][0]).toBe(21)
+  expect(mockFn.mock.calls[2][0]).toBe(31)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;배열을 순회하면서 배열값 + 1을 인자로 함수 fn을 실행시키는 forEachAdd1이라는 함수가 있고, 아직 fn이라는 함수는 만들지 않은 상태이다.&lt;/li&gt;
+&lt;li&gt;fn을 만들기 전에 목함수로 호출 횟수와 전달한 인자를 테스트해서 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;results&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#results&quot; aria-label=&quot;results permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;results&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const mockFn = jest.fn(num =&amp;gt; num + 1)
+
+mockFn(10)
+mockFn(20)
+mockFn(30)
+console.log(mockFn.mock.results)
+/*[
+      { type: &amp;#39;return&amp;#39;, value: 11 },
+      { type: &amp;#39;return&amp;#39;, value: 21 },
+      { type: &amp;#39;return&amp;#39;, value: 31 }
+    ]
+*/&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;results는 결과값을 리턴한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const mockFn = jest.fn()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;mockFn
+.mockReturnValueOnce(true)
+.mockReturnValueOnce(false)
+.mockReturnValueOnce(true)
+.mockReturnValueOnce(false)
+.mockReturnValue(true)&lt;/p&gt;
+&lt;p&gt;const result = [1, 2, 3, 4, 5].filter((num) =&gt; mockFn(num))&lt;/p&gt;
+&lt;p&gt;test(“홀수는 1, 3, 5”, () =&gt; {
+expect(result).toStrictEqual([1, 3, 5])
+})&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- mockReturnValueOnce는 목함수의 리턴값을 테스트 중간에 주입 가능하다.
+- 연속적으로 값을 전달하는 형태의 코드에서 효율적으로 사용 가능
+- mockResolvedValue는 비동기의 resolve를 흉내냄
+
+#### 목킹 모듈
+```javascript=
+const { createUser } = require(&amp;quot;./fn&amp;quot;)
+
+test(&amp;#39;유저를 만든다.&amp;#39;, () =&amp;gt; {
+  const user = createUser(&amp;#39;Mike&amp;#39;)
+  expect(user.name).toBe(&amp;#39;Mike&amp;#39;)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;실제로 db에 유저를 생성하는 함수인 createUser 함수가 있다고 하자.&lt;/li&gt;
+&lt;li&gt;테스트를 할 때마다 테스트유저를 db에 만들면 이후 직접 삭제해줘야하는 귀찮음이 있다.&lt;/li&gt;
+&lt;li&gt;createUser를 mocking module로 만들어서 실제 함수를 대체한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript=&quot;&gt;&lt;pre class=&quot;language-javascript=&quot;&gt;&lt;code class=&quot;language-javascript=&quot;&gt;const { createUser } = require(&amp;quot;./fn&amp;quot;)
+
+jest.mock(&amp;#39;./fn&amp;#39;)
+createUser.mockReturnValue({name : &amp;#39;Mike&amp;#39;})
+
+test(&amp;#39;유저를 만든다.&amp;#39;, () =&amp;gt; {
+  const user = createUser()
+  expect(user.name).toBe(&amp;#39;Mike&amp;#39;)
+})&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;위와 같이 createUser를 모킹 모듈로 만들면 실제 createUser코드는 실행되지 않고 mockReturnValue에 지정한 리턴값을 반환한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;리액트-컴포넌트--스냅샷-테스트&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8--%EC%8A%A4%EB%83%85%EC%83%B7-%ED%85%8C%EC%8A%A4%ED%8A%B8&quot; aria-label=&quot;리액트 컴포넌트  스냅샷 테스트 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;리액트 컴포넌트 + 스냅샷 테스트&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;@testing-library/react 라이브러리로 테스트내에서 렌더링하고, 해당 스크린에 문자열을 검색하는 방식으로 테스트 할 수 있다.&lt;/li&gt;
+&lt;li&gt;스냅샷은 성공하는 케이스를 저장해두고 비교하면서 테스트하는 방식이다.&lt;/li&gt;
+&lt;li&gt;toMatchSnapshot() 메소드로 스냅샷을 생성하고 비교함&lt;/li&gt;
+&lt;li&gt;스냅샷 업데이트는 npm test후 터미널에서 업데이트 명령어를 치면 됨&lt;/li&gt;
+&lt;li&gt;만약 버그가 있어서 실패한 것인데 꼼꼼이 살펴보지않고 스냅샷을 업데이트해버리면 다음부턴 버그가 있는 스냅샷으로 테스트를 하게 되니 신중하게 선택해야 한다&lt;/li&gt;
+&lt;li&gt;타이머 같은 컴포넌트는 매번 출력되는 시간이 바뀌므로 스냅샷 테스트를 할때마다 fail이 뜰 것이다.&lt;/li&gt;
+&lt;li&gt;Date.now를 목함수를 써서 고정된 값으로 만든다.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[Your name Thank you for reading my resume. If you want to contact me, Please send me an email.]]></description><link>https://soso01.github.io/resume-en/</link><guid isPermaLink="false">https://soso01.github.io/resume-en/</guid><pubDate>Sun, 27 Jan 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;your-name&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#your-name&quot; aria-label=&quot;your name permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Your name&lt;/h1&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;em&gt;Thank you for reading my resume. If you want to contact me, Please send me an email.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;</content:encoded></item></channel></rss>
