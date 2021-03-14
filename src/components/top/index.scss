@@ -1,10 +1,39 @@
 @import '../../styles/variables.scss';
 
+@-webkit-keyframes gradient {
+  0% {
+    background-position: 100% 0%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+@-moz-keyframes gradient {
+  0% {
+    background-position: 100% 0%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+@keyframes gradient {
+  0% {
+    background-position: 100% 0%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+
 .top {
   position: relative;
   width: 100%;
   height: 60px;
-  background: $theme-gradient;
+  background: $top-gradient;
+  background-size: 800% 800%;
+  -webkit-animation: gradient 25s linear infinite;
+  -moz-animation: gradient 25s linear infinite;
+  animation: gradient 25s linear infinite;
 
   .link {
     display: inline-block;

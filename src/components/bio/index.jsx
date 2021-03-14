@@ -50,6 +50,11 @@ export const Bio = () => (
                       LinkedIn
                     </a>
                   )}
+                  <a
+                    href={`https://www.notion.so/4d66554815dd4515a680cf2495ef20cd?v=6b6f7d375c584ceaaa043514b8219776`}
+                  >
+                    Notion
+                  </a>
                 </p>
               </div>
             </div>

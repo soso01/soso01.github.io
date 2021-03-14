@@ -11,11 +11,11 @@ module.exports = {
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/favicon.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'soso01/soso01.github.io', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
